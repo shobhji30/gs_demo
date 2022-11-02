@@ -17,7 +17,6 @@ public class AnnotationDemo {
 
 		BinarySearchImpl binarySearch =
 				applicationContext.getBean(BinarySearchImpl.class);
-
 		BinarySearchImpl binarySearch1 =
 				applicationContext.getBean(BinarySearchImpl.class);
 
